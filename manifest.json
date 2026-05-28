@@ -1,0 +1,12 @@
+﻿{
+  "name": "BudgetBook 记账",
+  "short_name": "记账",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#0078FF",
+  "description": "简洁优雅的个人记账应用",
+  "icons": [
+    {"src": "icons/icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
